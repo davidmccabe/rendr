@@ -18,7 +18,7 @@
     "qs": "0.5.1",
     "express": "~3.0.6",
     "validator": "0.4.21",
-    "rendr-handlebars": "https://github.com/davidmccabe/rendr-handlebars",
+    "rendr-handlebars": "git://github.com/davidmccabe/rendr-handlebars",
     "request": "~2.16",
     "debug": "*",
     "npm": "*"
